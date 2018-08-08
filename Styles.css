@@ -1,0 +1,40 @@
+h1{
+    background-color: #CDDC39;
+    border-radius: 5px;
+}
+#list1{
+    display: none;
+}
+
+#list2{
+    display: none;
+    
+}
+
+#myHeader{
+    margin:50px;
+    text-align: center;
+
+}
+ul li:hover{
+    background-color: #CDDC39;
+    border-radius: 5px;
+    transition-duration: 0.5s;
+}
+ul li {
+    padding: 5px;
+    display: inline-block;
+}
+
+.contenedor1{
+    color: red;
+}
+
+#myContent{
+    background-color: rgb(246, 244, 247);
+    margin: auto;
+    width: 800px;
+}
+ p{
+     font-style: inherit;
+ }
